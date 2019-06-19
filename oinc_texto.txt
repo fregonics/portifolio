@@ -1,0 +1,8 @@
+Construído com as tecnicas básicas de desenvolvimento android, OINC ToDo não busca ao menos por hora), ter um design excepcional, o que basicamente foi feito é um aplicativo de tarefas (ainda não traduzido, porque originalmente eu queria fazer-lhe um projeto open source e o escrevi em inglês).
+Os grupos de tarefas são salvos em arquivos no armazenamento interno do aplicativo, e ainda da flexibilidade para atualizações pelo fato de as tarefas, especificamente, serem escritas em jQuery no arquivo.
+Quando o aplicativo é aberto cria o taskgroup main, se é a primeira execução e ele não existe. Ou recupera as tarefas dele do arquivo, ou ainda se ele e reaberto e existem dados no savedInstanceState então ele os recupera para otimização.
+As tarefas são salvas na atividade principal, quando o usuario sai da atividade de nova tarefa, ou quando o aplicativo e fechado (por garantia).
+Como um todo o aplicativo é bem básico, e tem um bug conhecido que ainda não achei a causa, mas tem toda a funcionalidade básica, me ensinando o basico de desenvolvimento Android, que era meu objetivo inicial.
+Em um futuro proximo quero voltar a trabalhar nele, para aprender mais sobre a área, e adicionar algumas funcionalidades, como urgencia, agendamento, cores, sincronização, etc...
+
+

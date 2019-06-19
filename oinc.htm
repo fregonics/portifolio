@@ -26,35 +26,46 @@
                 </nav>
             </div>
         </header>
-        <main>
+        <section id="main">
             <div class="proj-page container-fluid">
-                <img class="proj-logo" src="oinc_logo.png">
-                <h3 class="proj-title">OINC</h3>
-                <h4 class="proj-description">Oinc foi um aplicativo que fiz quando
+                <img class="proj-logo center" src="oinc_logo.png">
+                <h3 class="proj-title txt-center">OINC</h3>
+                <h4 class="proj-description center txt-center">Oinc foi um aplicativo que fiz quando
                     estava a aprender conceitos basicos de desenvolvimento android.
                     Normalmente costumamos ter uma ideia de como seria um desenvolvimento
                     pratico na tecnologia apenas quando a usamos em um projeto de verdade.
                     Isso me ajudou a realmente aprender os conceitos basicos de
                     desenvolvimento Android, mais que um mero curso.
                 </h4>
-                <div class="row">
-                    <div class="col-sm"><img class="screenshot-demo" src="oinc_prints/0.png"></div>
-                    <div class="col-sm"><img class="screenshot-demo" src="oinc_prints/1.png"></div>
-                    <div class="col-sm"><img class="screenshot-demo" src="oinc_prints/2.png"></div>
-                    <div class="col-sm"><img class="screenshot-demo" src="oinc_prints/3.png"></div>
+                <div class="container-fluid proj-screenshots">
+                    <div class="row">
+                        <div class="col-sm"><img class="screenshot-demo" src="oinc_prints/0.png"></div>
+                        <div class="col-sm"><img class="screenshot-demo" src="oinc_prints/1.png"></div>
+                        <div class="col-sm"><img class="screenshot-demo" src="oinc_prints/2.png"></div>
+                        <div class="col-sm"><img class="screenshot-demo" src="oinc_prints/3.png"></div>
+                    </div>
+                    <div class="row">
+                        <div class="col-sm"><img class="screenshot-demo" src="oinc_prints/4.png"></div>
+                        <div class="col-sm"><img class="screenshot-demo" src="oinc_prints/5.png"></div>
+                        <div class="col-sm"><img class="screenshot-demo" src="oinc_prints/6.png"></div>
+                        <div class="col-sm"><img class="screenshot-demo" src="oinc_prints/7.png"></div>
+                    </div>
                 </div>
-                <div class="row">
-                    <div class="col-sm"><img class="screenshot-demo" src="oinc_prints/4.png"></div>
-                    <div class="col-sm"><img class="screenshot-demo" src="oinc_prints/5.png"></div>
-                    <div class="col-sm"><img class="screenshot-demo" src="oinc_prints/6.png"></div>
-                    <div class="col-sm"><img class="screenshot-demo" src="oinc_prints/7.png"></div>
-                </div>
+                <p class="proj-text center">Construído com as tecnicas básicas de desenvolvimento android, OINC ToDo não busca ao menos por hora), ter um design excepcional, o que basicamente foi feito é um aplicativo de tarefas (ainda não traduzido, porque originalmente eu queria fazer-lhe um projeto open source e o escrevi em inglês).</p>
+                <p class="proj-text center">Os grupos de tarefas são salvos em arquivos no armazenamento interno do aplicativo, e ainda da flexibilidade para atualizações pelo fato de as tarefas, especificamente, serem escritas em jQuery no arquivo.</p>
+                <p class="proj-text center">Quando o aplicativo é aberto cria o taskgroup main, se é a primeira execução e ele não existe. Ou recupera as tarefas dele do arquivo, ou ainda se ele e reaberto e existem dados no savedInstanceState então ele os recupera para otimização.</p>
+                <p class="proj-text center">As tarefas são salvas na atividade principal, quando o usuario sai da atividade de nova tarefa, ou quando o aplicativo e fechado (por garantia).</p>
+                <p class="proj-text center">Como um todo o aplicativo é bem básico, e tem um bug conhecido que ainda não achei a causa, mas tem toda a funcionalidade básica, me ensinando o basico de desenvolvimento Android, que era meu objetivo inicial.</p>
+                <p class="proj-text center">Em um futuro proximo quero voltar a trabalhar nele, para aprender mais sobre a área, e adicionar algumas funcionalidades, como urgencia, agendamento, cores, sincronização, etc...</p>   
+                <a class="proj-link center txt-center" href="https://github.com/fregonics/todo/">Veja o projeto no GitHub</a>
             </div>
-        </main>
+        </section>
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
         <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
         <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    
         <link rel="stylesheet" href="navbar_small.css">
+        <link rel="stylesheet" href="project.css">
     </body>
 </html>
