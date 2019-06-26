@@ -1,0 +1,11 @@
+body {
+    background: url("background.jpg");
+}
+#top-panel {
+    background: rgba(0, 0, 0, 0.75);
+    color: white;
+
+    position:relative;
+    margin: 0px;
+}
+.navbar-default { margin : 0 !important; }
