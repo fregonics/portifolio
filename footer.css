@@ -1,0 +1,22 @@
+footer {
+  background: rgb(5,5,5);
+  padding-top: 25px;
+  padding-bottom: 30px;
+  color: white;
+}
+.link-social-icon {
+  width: 40px;
+}
+
+footer .row {
+  width: 210px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.footer-name {
+  margin-top: 15px;
+  margin-bottom: 4px;
+  font-weight: bold;
+  font-size: 25px;
+}
+
