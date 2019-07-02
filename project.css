@@ -5,6 +5,11 @@
 } 
 .txt-center{text-align: center;}
 
+#main {
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+
 .proj-title, .proj-logo, proj-description {
     margin-top: 30px;
 }
