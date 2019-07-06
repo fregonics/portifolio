@@ -1,0 +1,25 @@
+#main {
+  padding-top: 40px;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-bottom: 40px;
+}
+h3 {
+  font-size: 50px;
+  font-weight: bold;
+}
+.my-description, skill{
+  font-size: 18px;
+  color: #555555;
+}
+.row {
+  margin-top: 45px;
+  margin-bottom: 45px;
+}
+.profile-pic {
+  width: 200px;
+}
+h4 {
+  font-size: 35px;
+  font-weight: bold;
+}
