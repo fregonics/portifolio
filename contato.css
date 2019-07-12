@@ -1,0 +1,14 @@
+.direto-lista, .sociais-lista {
+  list-style: none;
+}
+.direto-lista li,.sociais-lista li{
+  margin-top: 15px;
+}
+.cntt-icon {
+  width: 40px;
+  margin-right: 20px;
+}
+#main {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
