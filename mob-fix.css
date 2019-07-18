@@ -4,8 +4,11 @@
   h2 {font-size: 40px;}
   .navbar-toggler {font-size: 40px;}
   
-  .post {height: 430px}
+  .post {height: 650px}
   .post_preview_title {font-size: 45px;}
   h4 {font-size: 40px;}
-  .post_preview_txt{width: 70%;}
+  .post_preview_txt{
+    width: 70%;
+    height: 400px;
+  }
 }
