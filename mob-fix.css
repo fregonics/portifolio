@@ -2,5 +2,8 @@
   /*navbar-extended*/
   h1 {font-size: 80px;}
   h2 {font-size: 40px;}
-  .navbar-toggler {font-size: 40px;} 
+  .navbar-toggler {font-size: 40px;}
+  .post-container {
+    width: height;
+  }
 }
