@@ -3,7 +3,8 @@
   h1 {font-size: 80px;}
   h2 {font-size: 40px;}
   .navbar-toggler {font-size: 40px;}
-  .post-container {
-    width: height;
-  }
+  
+  .post_preview_title {font-size: 45px;}
+  h4 {font-size: 40px;}
+  .post_preview_txt{width: 70%;}
 }
