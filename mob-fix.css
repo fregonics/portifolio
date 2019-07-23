@@ -13,4 +13,8 @@
   }
   
   p {font-size: 35px !important;}
+  .post-link {
+    font-size: 40px;
+    width: 100%;
+  }
 }
