@@ -2,7 +2,7 @@
   /*navbar-extended*/
   h1 {font-size: 80px;}
   h2 {font-size: 40px;}
-  .navbar-toggler {font-size: 40px;}
+  .navbar-toggler, .nav-item {font-size: 60px;}
   
   .post {height: 650px}
   .post_preview_title {font-size: 45px;}
