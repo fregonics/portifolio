@@ -18,6 +18,8 @@
   p {font-size: 35px !important;}
   .post-link {
     font-size: 40px;
-    width: 100%;
+    width: 99%;
+    background-color: black;
   }
+  .post-link:hover {background: rgba(50, 50, 50,1);}
 }
