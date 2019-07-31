@@ -1,6 +1,9 @@
 @media (max-width: 1000px) {
-  /*navbar-extended*/
-  h1 {font-size: 80px;}
+  h1 {font-size: 80px !important;;}
+  #logo {
+    width: 100px;
+    margin-bottom: 40px;
+  }
   h2 {font-size: 40px;}
   .navbar-toggler, .nav-item {font-size: 60px;}
   
