@@ -1,6 +1,6 @@
 @media (max-width: 1000px) {
   h1 {font-size: 80px !important;;}
-  #logo {
+  .navbar-brand:not(.navbar-extended) #logo {
     width: 100px;
     margin-bottom: 40px;
   }
