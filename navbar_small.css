@@ -15,6 +15,8 @@
     padding-top: 8px;
     font-size: 30px;
     font-family: 'Le Murmure_Regular';
+    text-transform: uppercase;
+    color: #dddddd;
 
 }
 .nav-link {
