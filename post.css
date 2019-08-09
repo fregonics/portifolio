@@ -1,11 +1,12 @@
 
 #posts-container {
-  background: rgb(251, 251, 251);
+  background: rgba(240, 240, 240, 0.85);
 
   position: relative;
   min-width: 100%;
   min-height: 100%;
   margin: 0px;
+  padding-top: 15px;
 }
 
 
