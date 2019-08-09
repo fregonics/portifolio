@@ -17,11 +17,14 @@ body {
 h1{
     font-family: 'Le Murmure_Regular';
     font-size: 60px;
-    margin-bottom: 0;
+    margin-bottom: 10px;
 }
 h2 {
     color: rgba(255,255,255,0.7);
     font-size: 20px;
+    line-height: 15px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: light;
 }
 .nav-link {
     font-family: 'PT Sans Narrow', sans-serif;
