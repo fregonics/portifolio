@@ -1,5 +1,6 @@
 body {
     background: url("background.jpg");
+    background-size: 100%;
 }
 #top-panel {
     background: rgba(0, 0, 0, 0.75);
