@@ -23,7 +23,7 @@ h1{
 h2 {
     color: rgba(255,255,255,0.7);
     font-size: 20px;
-    line-height: 15px;
+    line-height: 0.7;
     font-family: 'Poppins', sans-serif;
     font-weight: light;
 }
