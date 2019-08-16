@@ -51,7 +51,7 @@ h4 {
 }
 
 .post-link {
-  background: rgba(0, 0, 0, 0.75);
+  background: rgba(0, 0, 0, 1);
   display: block;
   text-align: center;
   color: white;
@@ -64,7 +64,7 @@ h4 {
   bottom: 0;
 }
 .post-link:hover {
-  background: rgba(50, 50, 50, 0.75);
+  background: rgba(50, 50, 50, 1);
   border-style: solid;
   border-color: white;
   border-width: 0.1px;
