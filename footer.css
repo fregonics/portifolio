@@ -29,12 +29,13 @@ footer .row {
   margin-top: 15px;
   
   font-size: 25px;
+  font-weight: 300px;
   text-decoration: none;
   text-transform: uppercase;
   color: white;
 }
 .contato:hover {
-  color: #b9b94d;
+  color: #c9c95d;
   text-decoration: none;
   border-style: solid;
   border-width: 1px;
