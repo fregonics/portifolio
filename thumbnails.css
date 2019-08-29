@@ -1,8 +1,10 @@
 #pagina {
-    width: 1300px;
+    width: 1280px;
 }
 .thumb-link {
-    display: inline-block;
+    display: block;
+    width: 100%;
+    height: 100%;
 }
 .thumb {
     width: 300px;
