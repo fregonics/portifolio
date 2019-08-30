@@ -22,4 +22,6 @@
     background-color: black;
   }
   .post-link:hover {background: rgba(50, 50, 50,1);}
+  
+  .profile-pic {margin-top: 100px;}
 }
