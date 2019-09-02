@@ -25,24 +25,24 @@
 .thumb-icon {
     width: 100px;
     position: relative;
-    top: 60px;
+    top: 35px;
 }
 .thumb-title {
     position: relative;
-    top: 80px;
+    top: 55px;
     margin-bottom: 0px;
     
     font-size: 25px;
 }
 .thumb-tag {
     position: relative;
-    top: 80px;
+    top: 55px;
     
     font-size: 15px;
 }
 .thumb-desc {
     position: relative;
-    top: 80px;
+    top: 60px;
     
     font-size: 10px;
     width: 90%;
