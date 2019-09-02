@@ -11,8 +11,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="150mm"
-   height="130mm"
-   viewBox="0 0 150 130"
+   height="150mm"
+   viewBox="0 0 150 150"
    version="1.1"
    id="svg8"
    sodipodi:docname="oinc.svg"
@@ -40,7 +40,7 @@
        x2="102.92291"
        y2="106.5"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.2421984,0,0,1.2421984,-7.5158229,85.672711)" />
+       gradientTransform="matrix(1.2421984,0,0,1.2421984,-8.0449896,74.560211)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -50,8 +50,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.50000001"
-     inkscape:cx="210.30459"
-     inkscape:cy="344.85038"
+     inkscape:cx="-27.649232"
+     inkscape:cy="167.48198"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -77,23 +77,23 @@
      inkscape:label="Camada 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-167)">
+     transform="translate(0,-147)">
     <rect
        id="rect10-3"
        width="127.03699"
        height="124.21985"
-       x="3.8915305"
-       y="170.0753"
+       x="3.3623638"
+       y="158.9628"
        style="fill:url(#linearGradient6413);fill-opacity:1;stroke-width:0.32866502"
        ry="22.57613" />
     <path
        style="fill:#f9f9f9;fill-opacity:1;stroke-width:0.32866502"
-       d="m 78.220818,170.07541 a 101.86027,101.86027 0 0 0 -8.854696,41.35082 101.86027,101.86027 0 0 0 42.766888,82.86916 h 11.66893 c 12.50721,0 22.57587,-10.06866 22.57587,-22.57584 v -79.06767 c 0,-12.50717 -10.06866,-22.57647 -22.57587,-22.57647 z"
+       d="m 77.691651,158.96291 a 101.86027,101.86027 0 0 0 -8.854696,41.35082 101.86027,101.86027 0 0 0 42.766885,82.86916 h 11.66893 c 12.50721,0 22.57587,-10.06866 22.57587,-22.57584 v -79.06767 c 0,-12.50717 -10.06866,-22.57647 -22.57587,-22.57647 z"
        id="rect10"
        inkscape:connector-curvature="0" />
     <g
        aria-label="3"
-       transform="matrix(1.1918072,0,0,1.2947204,-7.5158229,85.672713)"
+       transform="matrix(1.1918072,0,0,1.2947204,-8.0449896,74.560213)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:76.57011414px;line-height:1.25;font-family:'SF Pro Text';-inkscape-font-specification:'SF Pro Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.9142884"
        id="text5999">
       <path
@@ -104,7 +104,7 @@
     </g>
     <path
        style="fill:#0ca147;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 80.634278,214.19233 c 13.851661,-7.68373 24.410542,-16.33048 45.233302,-25.36749 -9.66679,20.65212 -19.42825,46.03317 -5.85007,82.27987 -11.76671,-21.2304 -17.64125,-43.38855 -6.32631,-71.17368 -7.33036,3.18755 -8.61922,2.70102 -33.056922,14.2613 z"
+       d="m 80.105111,203.07983 c 13.851661,-7.68373 24.410539,-16.33048 45.233299,-25.36749 -9.66679,20.65212 -19.42825,46.03317 -5.85007,82.27987 -11.76671,-21.2304 -17.64125,-43.38855 -6.32631,-71.17368 -7.33036,3.18755 -8.61922,2.70102 -33.056919,14.2613 z"
        id="path6450"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
