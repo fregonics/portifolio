@@ -1,0 +1,51 @@
+#pagina {
+    width: 1280px;
+}
+.thumb-link,.thumb-bg {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+.thumb {
+    width: 300px;
+    height: 300px;
+    background: #222222;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-right: 0px;
+    padding-left: 0px;
+}
+.thumb-link {color: white;}
+.thumb-link:hover {
+    color: white;
+    text-decoration: none;
+}
+.thumb-icon {
+    width: 100px;
+    position: relative;
+    top: 35px;
+}
+.thumb-title {
+    position: relative;
+    top: 55px;
+    margin-bottom: 0px;
+    
+    font-size: 25px;
+}
+.thumb-tag {
+    position: relative;
+    top: 55px;
+    
+    font-size: 15px;
+}
+.thumb-desc {
+    position: relative;
+    top: 60px;
+    
+    font-size: 10px;
+    width: 90%;
+    background: rgba(0,0,0,0.7);
+    padding: 3px;
+}
