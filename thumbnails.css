@@ -41,6 +41,9 @@
     
     font-size: 15px;
 }
+.thumb-light .thumb-title, .thumb-light .thumb-tag {
+    color: black;
+}
 .thumb-desc {
     position: relative;
     top: 60px;
