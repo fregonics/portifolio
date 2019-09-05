@@ -1,6 +1,8 @@
 
 #topo {
-  background: #eeeeee
+  background: linear-gradient(#dddddd,#eeeeee);
+  padding-top: 100px;
+  padding-bottom: 40px;
 }
 h3 {
   font-size: 50px;
