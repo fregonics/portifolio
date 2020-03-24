@@ -17,5 +17,33 @@
     font-style: normal;
 }
 
+@font-face {
+    font-family: 'Free Sans Bold';
+    src:    url('contato/fonts/FreeSansBold.ttf');
+    src:    url('contato/fonts/FreeSansBold.ttf') format('truetype');
+            
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Free Mono';
+    src:    url('contato/fonts/FreeMono.ttf');
+    src:    url('contato/fonts/FreeMono.ttf') format('truetype');
+            
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Free Serif';
+    src:    url('contato/fonts/FreeSerif.ttf');
+    src:    url('contato/fonts/Freeserif.ttf') format('truetype');
+            
+    font-weight: normal;
+    font-style: normal;
+}
+
+
 @import url('https://fonts.googleapis.com/css?family=Poppins&display=swap');
 p {font-family: 'Poppins', sans-serif;}

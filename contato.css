@@ -5,16 +5,18 @@
 
 .contato-hyperlink {
   display: inline-block;
-  margin-left: 33%;
+  margin-left: 30%;
 }
 #contato-greeting-img {
   width: 100px;
 }
 #contato-titulo-oi {
   font-size: 90px;
+  font-family: 'Free Sans Bold';
 }
 #contato-cta-msg {
   margin-bottom: 50px;
+  font-family: 'Free Mono';
 }
 
 .contato-item {
@@ -22,4 +24,16 @@
 }
 .contato-item .contato-link-icone {
   margin-right: 10px;
+}
+
+.contato-hyperlink {
+  font-family: 'Free Serif';
+  color: #777777;
+}
+.contato-hyperlink:hover {
+  color: black;
+  text-decoration: none;
+}
+.contato-hyperlink:hover span {
+  text-decoration: underline; 
 }
