@@ -1,0 +1,25 @@
+#main {
+  margin-top: 5%;
+  width: 700px;
+}
+
+.contato-hyperlink {
+  display: inline-block;
+  margin-left: 33%;
+}
+#contato-greeting-img {
+  width: 100px;
+}
+#contato-titulo-oi {
+  font-size: 90px;
+}
+#contato-cta-msg {
+  margin-bottom: 50px;
+}
+
+.contato-item {
+  margin-top: 10px;
+}
+.contato-item .contato-link-icone {
+  margin-right: 10px;
+}
