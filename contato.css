@@ -8,9 +8,10 @@
   margin-left: 30%;
 }
 #contato-greeting-img {
-  width: 100px;
+  width: 80px;
 }
 #contato-titulo-oi {
+  margin-top: 40px;
   font-size: 90px;
   font-family: 'Free Sans Bold';
 }
@@ -36,4 +37,7 @@
 }
 .contato-hyperlink:hover span {
   text-decoration: underline; 
+}
+.contato-link-icone.not-round{
+  padding-left: 2px;
 }
