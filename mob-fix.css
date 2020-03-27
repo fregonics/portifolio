@@ -17,7 +17,8 @@
   
   .thumb{
     flex-grow: 1;
-    width: 100%;
+    width: 800px;
+    height: 800px;
   }
   .thumb-title {font-size: 40px;}
   .thumb-desc, .thumb-tag {font-size: 35px;}
