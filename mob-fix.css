@@ -30,7 +30,10 @@
     height: 500px;
     width: 100%;
   }
+  .thumb-title {
+    font-size: 27px;
+  }
   .thumb-desc {
-    font-size: 30px;
+    font-size: 27px;
   }
 }
