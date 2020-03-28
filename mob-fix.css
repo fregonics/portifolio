@@ -7,19 +7,26 @@
   h2 {font-size: 40px;}
   .navbar-toggler, .nav-item {font-size: 60px;}
   
+  .post {height: 650px}
+  .post_preview_title {font-size: 45px;}
   h4 {font-size: 40px;}
- 
-  p {font-size: 35px !important;}
+  .post_preview_txt{
+    width: 70%;
+    height: 400px;
+  }
   
+  p {font-size: 35px !important;}
+  .post-link {
+    font-size: 40px;
+    width: 99%;
+    background-color: black;
+  }
   .post-link:hover {background: rgba(50, 50, 50,1);}
   
   .profile-pic {margin-top: 100px;}
   
   .thumb{
-    /*flex-grow: 1;*/
-    width: 100%;
-    height: auto;
+    flex-grow: 1;
+    height: 500px;
   }
-  .thumb-title {font-size: 40px;}
-  .thumb-desc, .thumb-tag {font-size: 35px;}
 }
