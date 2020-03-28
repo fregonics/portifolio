@@ -28,5 +28,9 @@
   .thumb{
     flex-grow: 1;
     height: 500px;
+    width: 100%;
+  }
+  .thumb-desc {
+    font-size: 30px;
   }
 }
