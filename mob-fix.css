@@ -39,4 +39,7 @@
   .thumb-desc {
     font-size: 30px;
   }
+  .thumb-bg {
+    background-size: cover;
+  }
 }
